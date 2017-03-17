@@ -4,10 +4,6 @@ A perfect default home page for your browsers if you want fast access to your pr
 
 Enjoy :D
 
-# Localhost Style
-
-A custom index.php and CSS styles for your localhost.
-
 ## How To
 
 1. Copy `index.php` and `index-custom-style.css` in the root directory of localhost (e.g. `username/sites`)
